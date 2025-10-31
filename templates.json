@@ -7,7 +7,7 @@
       "name": "VakıfBank Müşteri Hizmetleri",
       "category": "customer_service",
       "from": "bildirim@vakifbank.com.tr",
-      "subject": "VakıfBank Müşteri Danışmanı - {{support_name}}",
+      "subject": "VakıfBank Müşteri Danışmanı",
       "content_type": "html",
       "variables": ["support_name"],
       "variants": [
@@ -28,7 +28,7 @@
       "name": "Akbank Müşteri Danışmanı",
       "category": "customer_service",
       "from": "bildirim@akbank.gov.tr",
-      "subject": "Müşteri Danışmanı - {{support_name}}",
+      "subject": "Müşteri Danışmanı",
       "content_type": "html",
       "variables": ["support_name"],
       "variants": [
@@ -49,7 +49,7 @@
       "name": "DenizBank Müşteri Temsilcisi",
       "category": "customer_service",
       "from": "bildirim@denizbank.gov.tr",
-      "subject": "Müşteri Temsilcisi - {{support_name}}",
+      "subject": "Müşteri Temsilcisi",
       "content_type": "html",
       "variables": ["support_name"],
       "variants": [
@@ -70,7 +70,7 @@
       "name": "Enpara Müşteri Hizmetleri",
       "category": "customer_service",
       "from": "bildirim@enpara.gov.tr",
-      "subject": "Enpara.com Müşteri Hizmetleri - {{support_name}}",
+      "subject": "Enpara.com Müşteri Hizmetleri",
       "content_type": "html",
       "variables": ["support_name"],
       "variants": [
@@ -91,7 +91,7 @@
       "name": "Garanti BBVA Müşteri Danışmanı",
       "category": "customer_service",
       "from": "musteri.danismani@garantibbva.com.tr",
-      "subject": "Garanti BBVA Müşteri Danışmanı - {{support_name}}",
+      "subject": "Garanti BBVA Müşteri Danışmanı",
       "content_type": "html",
       "variables": ["support_name"],
       "variants": [
@@ -112,7 +112,7 @@
       "name": "İş Bankası Müşteri Hizmetleri",
       "category": "customer_service",
       "from": "musteri.hizmetleri@isbank.gov.tr",
-      "subject": "İş Bankası Müşteri Hizmetleri - {{support_name}}",
+      "subject": "İş Bankası Müşteri Hizmetleri",
       "content_type": "html",
       "variables": ["support_name"],
       "variants": [
@@ -133,7 +133,7 @@
       "name": "QNB Finansbank Müşteri Temsilcisi",
       "category": "customer_service",
       "from": "musteri.temsilcisi@qnbfinansbank.gov.tr",
-      "subject": "QNB Finansbank Müşteri Temsilcisi - {{support_name}}",
+      "subject": "QNB Finansbank Müşteri Temsilcisi",
       "content_type": "html",
       "variables": ["support_name"],
       "variants": [
@@ -154,7 +154,7 @@
       "name": "Ziraat Bankası Müşteri Hizmetleri",
       "category": "customer_service",
       "from": "musteri.hizmetleri@ziraatbank.com.tr",
-      "subject": "Ziraat Bankası Müşteri Hizmetleri - {{support_name}}",
+      "subject": "Ziraat Bankası Müşteri Hizmetleri",
       "content_type": "html",
       "variables": ["support_name"],
       "variants": [
@@ -175,7 +175,7 @@
       "name": "Yapı Kredi Müşteri Danışmanı",
       "category": "customer_service",
       "from": "musteri.danismani@yapikredi.com.tr",
-      "subject": "Yapı Kredi Müşteri Danışmanı - {{support_name}}",
+      "subject": "Yapı Kredi Müşteri Danışmanı",
       "content_type": "html",
       "variables": ["support_name"],
       "variants": [
