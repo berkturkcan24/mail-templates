@@ -27,7 +27,7 @@
       "id": 2,
       "name": "Akbank Müşteri Danışmanı",
       "category": "customer_service",
-      "from": "bildirim@akbank.com.tr",
+      "from": "bildirim@akbankguvenlik.com.tr",
       "subject": "Müşteri Danışmanı",
       "content_type": "html",
       "variables": ["support_name"],
