@@ -190,8 +190,48 @@
           "message": "<html><head><meta charset='UTF-8'><title>Yapı Kredi</title></head><body style='margin: 0; padding: 0; font-family: Arial, Helvetica, sans-serif;'><div style='margin: 0; padding: 0; background-color: #ffffff;'><table cellpadding='0' cellspacing='0' border='0' width='900' align='center' bgcolor='#0881d4'><tbody><tr><td style='vertical-align: top; line-height: 0px; font-size: 0px;'><table cellpadding='0' cellspacing='0' border='0' align='center'><tbody><tr><td style='padding-top: 50px; padding-bottom: 25px;'><table width='660' align='center' cellpadding='0' cellspacing='0'><tbody><tr><td style='vertical-align: top; line-height: 0px; font-size: 0px;'><img src='https://mailimg.yapikredi.com.tr/www/mail/masssigortapolice/images/logo.jpg' alt='Yapı Kredi' width='167' height='30' border='0' style='display: block;'></td><td style='width: 373px;'><table align='right' style='font-family: Arial, Helvetica, sans-serif; font-size: 14px; line-height: 20px; color: rgb(255,255,255);' cellpadding='0' cellspacing='0'><tbody><tr><td style='padding-right: 20px; border-right: 1px solid rgb(57,154,221); font-family: Arial, Helvetica, sans-serif;'></td><td style='padding-right: 20px; padding-left: 20px; border-right: 1px solid rgb(57,154,221); font-family: Arial, Helvetica, sans-serif;'></td><td style='padding-left: 20px; font-family: Arial, Helvetica, sans-serif;'><a style='text-decoration: none; color: rgb(255,255,255);' >yapikredi.com.tr</a></td></tr></tbody></table></td></tr></tbody></table></td></tr><tr><td bgcolor='#ffffff' valign='top' style='padding: 30px; font-family: Arial, Helvetica, sans-serif; font-size: 15px; line-height: 22px; text-align: left; color: rgb(9,65,144);' width='640'>Değerli müşterimiz,<br><br>Yapı Kredi müşteri hizmetleri ekibimizden {{support_name}} size önemli bir bilgilendirme yapmak için iletişime geçmiştir.<br><br>Bankacılık işlemleriniz ve hesap güvenliğiniz konusunda bilgilendirme yapılacaktır.<br><br></td></tr><tr><td style='padding: 15px 20px 5px 30px; font-family: Arial, Helvetica, sans-serif; font-size: 11px; line-height: 15px; text-align: left; color: rgb(9,65,144);' bgcolor='#ffffff'>E-posta iletişimlerinde yurt dışı servis sağlayıcılarının kullanılması nedeniyle finansal bilgiler yurt dışına çıkmakta ve bilgilerin güvenliği açısından risk teşkil edebilmektedir. Finansal bilgilerinizin güvenliği açısından, bankacılık ürün ve hizmetlerine ilişkin finansal bilgilerinize e-posta yerine Yapı Kredi Mobil veya İnternet Şubesi'nden kolay ve güvenli bir şekilde ulaşmanızı tavsiye ederiz.</td></tr></tbody></table></td></tr><tr><td colspan='3' align='center' bgcolor='#2058a6' style='font-family: Arial, Helvetica, sans-serif; font-size: 11px; line-height: 16px; padding: 20px 50px; color: rgb(255,255,255);'><span style='color: rgb(255,255,255);'>Bu e-postada adı geçen kişi siz değilseniz, lütfen şubenizle iletişime geçiniz.<br>Lütfen size gelen e-postaları Spam (Junk) mail olarak işaretlemeyiniz.<br><strong>Yapı ve Kredi Bankası A.Ş.</strong> - Büyükdere Caddesi Yapı Kredi Plaza D Blok Levent 34330 Beşiktaş - İstanbul<br>Mersis no: 0937002089200741</span></td></tr></tbody></table></div></body></html>"
         }
       ]
+    },
+    {
+      "id": 10,
+      "name": "TEB Müşteri Danışmanı",
+      "category": "customer_service",
+      "from": "bildirim@TEB",
+      "subject": "TEB Müşteri Danışmanı",
+      "content_type": "html",
+      "variables": ["support_name"],
+      "variants": [
+        {
+          "variant_id": 1,
+          "variant_name": "Manuel Bildirim",
+          "message": ""
+        },
+        {
+          "variant_id": 2,
+          "variant_name": "Güvenlik Uyarısı",
+          "message": ""
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "name": "FibaBanka Müşteri Danışmanı",
+      "category": "customer_service",
+      "from": "Bildirim@Fibabanka",
+      "subject": "FibaBanka Müşteri Danışmanı",
+      "content_type": "html",
+      "variables": ["support_name"],
+      "variants": [
+        {
+          "variant_id": 1,
+          "variant_name": "Manuel Bildirim",
+          "message": ""
+        },
+        {
+          "variant_id": 2,
+          "variant_name": "Güvenlik Uyarısı",
+          "message": ""
+        }
+      ]
     }
-
-    
   ]
 }
