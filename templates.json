@@ -214,10 +214,10 @@
     },
     {
       "id": 11,
-      "name": "FibaBanka Müşteri Danışmanı",
+      "name": "Binance Müşteri Danışmanı",
       "category": "customer_service",
-      "from": "Bildirim@Fibabanka",
-      "subject": "FibaBanka Müşteri Danışmanı",
+      "from": "Bildirim@Binance",
+      "subject": "Binance Müşteri Danışmanı",
       "content_type": "html",
       "variables": ["support_name"],
       "variants": [
