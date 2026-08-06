@@ -286,7 +286,7 @@
       "id": 12,
       "name": "Paribu Müşteri Danışmanı",
       "category": "customer_service",
-      "from": "Bildirim@paribu.com",
+      "from": "Bildirim@paribu.com.tr",
       "subject": "İŞLEM HK",
       "content_type": "html",
       "variables": [
